@@ -1,3 +1,5 @@
+## Instrucciones
+
 Para la ejecución de este programa lo primero que debes hacer es contar con tu API Key, el cual cuando crees el .env sera reconocida por el codigo EDA.py.
 
 Debes tener en cuenta haber instalado todas las librerias con sus versiones, estas se encuentran en requirements.txt
@@ -11,8 +13,8 @@ Nota: En VS code streamlit necesita un entorno virtual para poder correr, tener 
 
 ## Resultados del Modelo
 
-![Resultado del Modelo](./Resultados del modelo.PNG)
+![Resultado del Modelo](./Resultados/Resultados.PNG)
 
 ## Métrica de Rendimiento
 
-![Métrica de Rendimiento](./Metricas.png)
+![Métrica de Rendimiento](./Resultados/Metricas.PNG)
