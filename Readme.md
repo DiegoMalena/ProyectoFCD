@@ -8,3 +8,11 @@ Luego Modelo
 Por último streamlit_app.py
 
 Nota: En VS code streamlit necesita un entorno virtual para poder correr, tener pendiente esto.
+
+## Resultados del Modelo
+
+![Resultado del Modelo](./Resultados del modelo.png)
+
+## Métrica de Rendimiento
+
+![Métrica de Rendimiento](./Metricas.png)
