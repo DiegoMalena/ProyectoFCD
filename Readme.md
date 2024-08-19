@@ -22,3 +22,8 @@ Nota: En VS code streamlit necesita un entorno virtual para poder correr, tener 
 ## Aplicación Streamlit
 
 Puedes acceder a la aplicación [aquí](https://proyectofcd-p4fdkacqjyq28hmxipas67.streamlit.app/).
+
+
+## Documentación
+
+Puedes ver el documento en PDF [aquí](./Blog/Blog _ Grupo4 _ Medium.PDF).
