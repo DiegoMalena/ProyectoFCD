@@ -20,7 +20,7 @@ params = {
     'from': '2010',
     'language': 'en',
     'sortBy': 'publishedAt',
-    'apiKey': 'eeaffb861b8846b6b3ef16aef2ecd1ec'
+    'apiKey': api_key
 }
 
 # Hacer la solicitud GET a la API de noticias
