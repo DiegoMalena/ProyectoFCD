@@ -26,4 +26,4 @@ Puedes acceder a la aplicación [aquí](https://proyectofcd-p4fdkacqjyq28hmxipas
 
 ## Documentación
 
-Puedes ver el documento en PDF [aquí](./Blog/Blog _ Grupo4 _ Medium.PDF).
+Puedes ver el documento en PDF [aquí](./Blog/Blog_Grupo4_Medium.pdf).
