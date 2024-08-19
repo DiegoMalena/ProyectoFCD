@@ -17,4 +17,4 @@ Nota: En VS code streamlit necesita un entorno virtual para poder correr, tener 
 
 ## Métrica de Rendimiento
 
-![Métrica de Rendimiento](./Resultados/Metricas.PNG)
+![Métrica de Rendimiento](./Resultados/Rendimiento.PNG)
